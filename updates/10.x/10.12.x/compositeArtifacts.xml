@@ -2,12 +2,13 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='Eclipse Checkstyle Plugin Update Site 10.12.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1706095119956'/>
+    <property name='p2.timestamp' value='1706198416178'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='../../../releases/10.12.0.202401210958'/>
     <child location='../../../releases/10.12.1.202401231426'/>
     <child location='../../../releases/10.12.2.202401241002'/>
+    <child location='../../../releases/10.12.3.202401251446'/>
   </children>
 </repository>
