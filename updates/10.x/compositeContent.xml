@@ -2,10 +2,10 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='Eclipse Checkstyle Plugin Update Site 10.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1755183123687'/>
+    <property name='p2.timestamp' value='1755635537537'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='25'>
+  <children size='26'>
     <child location='10.0.x'/>
     <child location='10.1.x'/>
     <child location='10.2.x'/>
@@ -31,5 +31,6 @@
     <child location='10.22.x'/>
     <child location='10.23.x'/>
     <child location='10.24.x'/>
+    <child location='10.25.x'/>
   </children>
 </repository>
